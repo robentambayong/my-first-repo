@@ -1,8 +1,6 @@
 # my-first-repo
-Name: Roben Joseph B Tambayong
-
-NPM: 2406453594
-
+Name: Roben Jospeh B Tambayong
+Student ID: 2406453594
 Class: PBP KKI
-
-Hobby: Sleeping and Eating
+Hobby:  and Eating
+Major: Computer Science
